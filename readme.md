@@ -1,4 +1,4 @@
-boost 1.79
+boost 1.79 asio
 c++11
 
 sudo g++ *.h *.cpp -o xxx -pthread
